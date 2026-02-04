@@ -30,8 +30,6 @@ This demonstrates **Finite Automata in action**:
 ```bash
 javac AnimalGuessingGame.java
 ```
-## Working
-![Working](images/game_demo.png)
 
 
 
